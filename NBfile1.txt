@@ -1,1 +1,3 @@
 Hello this is new branch file 1
+
+New branch file 1 is now modified
